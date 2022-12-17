@@ -62,7 +62,7 @@ public class VIER_Gewinnt {
     // Erzeugung eines leeren Spielbretts
     // "Geruest" des Spielfelds mit 7 Spalten und 6 Zeilen wird im Rahmen eines
     // zweidimensionalen Arrays erzeugt
-    public static char[][] spielbrettleer(char spielfeld[][]) {
+    public static char[][] BoardIsEmpty(char spielfeld[][]) {
 
         ueberschrift(7);
 
