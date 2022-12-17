@@ -183,7 +183,7 @@ public class VIER_Gewinnt {
                         && spielfeld[z][s + 1] == spielsteinchen
                         && spielfeld[z][s + 2] == spielsteinchen
                         && spielfeld[z][s + 3] == spielsteinchen) {
-                    System.out.println(name + " hat gewonnen! Glückwunsch. :)");
+                    System.out.println(name + " ist der Sieger! Yeah! :)");
                     i = 43;
                 }
             }
