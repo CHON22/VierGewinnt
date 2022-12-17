@@ -17,7 +17,7 @@ public class VIER_Gewinnt {
                         + "\n"
                         + "Vier Gewinnt - Spielbeschreibung & Spielregeln"
                         + "\n"
-                        + "Spielbeschreibung und Reglen:"
+                        + "Spielbeschreibung und Regeln:"
                         + "\n"
                         + "Das Spielbrett besteht aus sieben senkrechten Spalten  und sechs waagerechten Reihen. "
                         + "\n"
