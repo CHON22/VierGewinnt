@@ -16,7 +16,6 @@ public class VIER_Gewinnt {
                 .println("Hilfestellung"
                         + "\n"
                         + "Vier Gewinnt - Spielbeschreibung & Spielregeln"
-                        + "Vier Gewinnt - Spielbeschreibung und Spielregeln"
                         + "\n"
                         + "Spielbeschreibung und Reglen:"
                         + "\n"
