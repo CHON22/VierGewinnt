@@ -15,7 +15,7 @@ public class VIER_Gewinnt {
         System.out
                 .println("Hilfestellung"
                         + "\n"
-                        + "Vier Gewinnt - Spielbeschreibung und Spielregeln"
+                        + "Vier Gewinnt - Spielbeschreibung & Spielregeln"
                         + "\n"
                         + "Spielbeschreibung und Reglen:"
                         + "\n"
