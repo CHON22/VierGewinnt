@@ -13,13 +13,13 @@ public class VIER_Gewinnt {
     public static void hilfestellung() {
 
         System.out
-                .println("Hilfestellung"
+                .println("Hilfe"
                         + "\n"
                         + "Vier Gewinnt - Spielbeschreibung und Spielregeln"
                         + "\n"
                         + "Spielbeschreibung und Reglen:"
                         + "\n"
-                        + "Das Spielbrett besteht aus sieben senkrechten Spalten  und sechs waagerechten Reihen. "
+                        + "Das schöne Spielbrett besteht aus sieben senkrechten Spalten  und sechs waagerechten Reihen. "
                         + "\n"
                         + "Jeder Spieler besitzt 21 Spielsteine des selben Symbols (hier: Spieler 1 kenntlich durch X und Spieler 2 durch O)."
                         + "\n"
