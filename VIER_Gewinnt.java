@@ -13,13 +13,13 @@ public class VIER_Gewinnt {
     public static void hilfestellung() {
 
         System.out
-                .println("Hilfestellung"
+                .println("Hilfe"
                         + "\n"
                         + "Vier Gewinnt - Spielbeschreibung und Spielregeln"
                         + "\n"
                         + "Spielbeschreibung und Reglen:"
                         + "\n"
-                        + "Das Spielbrett besteht aus sieben senkrechten Spalten  und sechs waagerechten Reihen. "
+                        + "Das schöne Spielbrett besteht aus sieben senkrechten Spalten  und sechs waagerechten Reihen. "
                         + "\n"
                         + "Jeder Spieler besitzt 21 Spielsteine des selben Symbols (hier: Spieler 1 kenntlich durch X und Spieler 2 durch O)."
                         + "\n"
@@ -183,7 +183,7 @@ public class VIER_Gewinnt {
                         && spielfeld[z][s + 1] == spielsteinchen
                         && spielfeld[z][s + 2] == spielsteinchen
                         && spielfeld[z][s + 3] == spielsteinchen) {
-                    System.out.println(name + " hat gewonnen! Glückwunsch. :)");
+                    System.out.println(name + " ist der Sieger! Yeah! :)");
                     i = 43;
                 }
             }
@@ -319,3 +319,4 @@ public class VIER_Gewinnt {
         }
     }
 }
+// Ende des Programmes4
